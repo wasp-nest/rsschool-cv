@@ -11,7 +11,7 @@ ____
 * Adaptability
 * Agile processes
 * Excellent communication skills
-* Java Script, CSS3, HTML5, SQL Server, No SQL
+* Java Script, CSS3, HTML5, SQL Server
 * Microservices development
 * Pivotal Cloud Foundry Platform (Gradle, GitHub)
 * Status tracking tools (Jira and Rally)
@@ -41,6 +41,6 @@ ____
 **Degree (diploma):** Bachelor
 ____
 ##### LANGUAGES
-English - Speaking - A1+
-English - Writing - A2
-Russian - Native
+English-Speaking-A1+
+English-Writing-A2
+Russian-Native
