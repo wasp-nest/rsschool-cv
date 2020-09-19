@@ -1,4 +1,4 @@
-#### PERSONAL INFORMATION
+### PERSONAL INFORMATION
 
 **Name:** Elena Zimakova
 
@@ -7,15 +7,18 @@
 **Email:** ahes@mail.ru
 
 **Skype:** wasp_32
+
 ____
 
-#### OBJECTIVE
+
+### OBJECTIVE
 
 Looking for an entry-level position as a Software Engineer in a dynamic firm that values my analytical and technical skills and provides scope for updating my knowledge, I seek a company that will help me contribute to its development while concurrently aiding my personal growth.
 
 ____
 
-#### SKILLS
+
+### SKILLS
 
 * Adaptability
 * Agile processes
@@ -26,9 +29,11 @@ ____
 * Status tracking tools (Jira and Rally)
 * Strong collaboration skills
 * Practical knowledge of SQL and database concepts
+
 ____
 
-#### Example code:
+
+### Example code:
 
 ```javascript
 const hasTargaryenReference = (string) => {
@@ -37,9 +42,11 @@ const hasTargaryenReference = (string) => {
 };
 hasTargaryenReference('Targari');
 ```
+
 ____
 
-#### WORK EXPERIENCE 
+
+### WORK EXPERIENCE 
 
 Junior Javascript developer with practical knowledge in HTML/CSS/JS and theoretical ReactJS knowledge.	
 
@@ -47,18 +54,22 @@ Junior Javascript developer with practical knowledge in HTML/CSS/JS and theoreti
 * Experience in adaptive and responsive design
 * Experience in a11y development
 * Specific knowledge in customer integrated environment 
+
 ____
 
-#### EDUCATION 
+
+### EDUCATION 
 
 **Name of the Education Establishment:** Bryansk State Technical University
 
 **Faculty/College:** Information Technologies
 
 **Degree (diploma):** Bachelor
+
 ____
 
-#### LANGUAGES
+
+### LANGUAGES
 
 English-Speaking-A1+
 
